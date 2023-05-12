@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Oğuz Kağan</h1>
 <h3 align="center">Part-time AI / Machine Learning researcher from Turkiye</h3>
-
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*KujUJuDRV-4XUKZF4UDiPg.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oguzkaganbilici&label=Profile%20views&color=0e75b6&style=flat" alt="oguzkaganbilici" /> </p>
 
-- 🔭 I’m currently working on **as Operation Engineer at Turk Telekom**
+- 🔭 I’m currently working on **as operation engineer at Turk Telekom**
 
-- 🌱 I’m currently learning **data science, react and Node.js**
+- 🌱 I’m currently learning **data science, machine learning and image processing. Also, react and Node.js for web development.**
 
 - 📫 How to reach me **oguzkaganbilici1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/oguzkaganbilici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oguzkaganbilici" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/o%c4%9fuz-ka%c4%9fan-bilici/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/o%c4%9fuz-ka%c4%9fan-bilici/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oğuz-kağan-bilici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oğuz-kağan-bilici" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/oguzkaganbilici1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/oguzkaganbilici1" height="30" width="40" /></a>
 </p>
 
