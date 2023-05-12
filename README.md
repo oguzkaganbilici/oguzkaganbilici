@@ -1,5 +1,5 @@
 ### Hi there 👋
-**`An engineer and developer` **
+** `An engineer and developer` **
 <!--
 **oguzkaganbilici/oguzkaganbilici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
